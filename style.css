@@ -8,6 +8,7 @@ article {height: 100%; width: 60%; background-color: black; color: black; float:
 .btn:hover {color:hotpink}
 #shadow {box-shadow: 5px 5px 10px 5px aqua;}
 img {float: right;}
+.sec {display: block; float: none; margin: 0 auto; max-width: 100%;}
 h2 {width: auto; margin: 0; padding: 1%; font-size: clamp(1.25rem, 3vw, 2rem); color: grey; text-align: center;}
 p {width: auto; margin: 0; padding: 1%; font-size: clamp(1.25rem, 3vw, 2rem); color: grey;}
 .full {}
