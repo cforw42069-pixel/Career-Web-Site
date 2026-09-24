@@ -6,6 +6,8 @@ main {padding: 2%; height: 100%; display: flex; justify-content: center; align-i
 article {height: 100%; width: 60%; background-color: black; color: black; float: none; padding: 1%; margin: 0 auto; box-sizing: border-box;}
 .btn {color: rgb(127, 127, 133); text-decoration-style: dashed;}
 .btn:hover {color:hotpink; text-decoration: line-through;}
+.secret-btn {display: inline-block; padding: 0.6rem 1rem; background-color: black; color: grey; text-decoration: none; border-radius: 0.25rem;}
+.secret-btn:hover {background-color: black; color: grey; text-decoration: none;}
 #shadow {box-shadow: 5px 5px 10px 5px aqua;}
 img {float: right;}
 .sec {display: block; float: none; margin: 0 auto; max-width: 100%;}
