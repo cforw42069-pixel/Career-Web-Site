@@ -17,4 +17,4 @@ p {width: auto; margin: 0; padding: 1%; font-size: clamp(0.9rem, 2vw, 1.6rem); c
 .left {height: 100%; width: 45%; background-color: rgba(0, 0, 0, 1); color: rgba(0, 0, 0, 1); float: left; padding: 1%; margin: 0 auto; box-sizing: border-box;}
 .right {height: 100%; width: 45%; background-color: rgba(0, 0, 0, 1); color: rgba(0, 0, 0, 1); float: right; padding: 1%; margin: 0 auto; box-sizing: border-box;}
 a {color: rgba(128, 128, 128, 1)}
-li {color: rgba(128, 128, 128, 1); font-size: clamp(0.9rem, 2vw, 1.6rem); list-style-position: inside;}
+li {color: rgba(128, 128, 128, 1); font-size: clamp(0.9rem, 2vw, 1.6rem); list-style-position: inside;}                            
